@@ -2830,8 +2830,8 @@ body.is-menu-visible #menu {
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
 .services{
-  width:310px;
-  height:310px;
+  width:250px;
+  height:250px;
   padding:5px;
   border-radius: 10px;
   filter: contrast(110%);
